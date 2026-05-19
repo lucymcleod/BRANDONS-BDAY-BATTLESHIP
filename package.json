@@ -1,0 +1,16 @@
+{
+  "name": "brandons-birthday-battleship",
+  "version": "1.0.0",
+  "description": "Personalised sushi battleship for Brandon's 32nd",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
